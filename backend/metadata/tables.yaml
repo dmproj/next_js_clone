@@ -1,0 +1,24 @@
+- table:
+    schema: public
+    name: accounts
+- table:
+    schema: public
+    name: boards
+- table:
+    schema: public
+    name: boards_users
+- table:
+    schema: public
+    name: cards
+- table:
+    schema: public
+    name: lists
+- table:
+    schema: public
+    name: sessions
+- table:
+    schema: public
+    name: users
+- table:
+    schema: public
+    name: verification_requests
